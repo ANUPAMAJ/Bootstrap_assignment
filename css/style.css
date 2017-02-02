@@ -11,7 +11,6 @@ body{
    -------------------------------------- */
 #nav_1{
 	background-color: #004d40;
-	p
 }
 #nav_1 img{
 	width: 57px;
@@ -42,6 +41,7 @@ body{
 	background-color: white;
 	
 }
+
  #feature_col img{
   	margin: 20px 0;
  }
@@ -51,6 +51,9 @@ body{
  .panel-title{
  	font-size: 30px;
  	color: #004d40;
+ }
+ .panel-body{
+ 	font-size: 
  }
  .row{
  	margin-right: 0px;
@@ -111,10 +114,9 @@ body{
 footer{
 	background: #004d40;
 	color: #eee;
-	font-size: 11px;
 	padding: 20px;
 }
-ul.unstyled{
+.unstyled a{
 	list-style: none;
 	padding: 0;
 }
